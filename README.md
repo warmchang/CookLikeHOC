@@ -4,6 +4,8 @@
 
 [**Docker Support**](./docker_support/README.md) | [**Development**](./docs/development.md)
 
+<a href="https://trendshift.io/repositories/14894" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14894" alt="Gar-b-age%2FCookLikeHOC | Trendshift" style="width: 250px; height: 55px;" width="125" height="22.5"/></a>
+
 </div>
 
 # 像老乡鸡那样做饭
@@ -14,11 +16,13 @@
 
 ---
 
-> [**一些说明**](https://github.com/Gar-b-age/CookLikeHOC/issues/26)
+[**一些说明**](https://github.com/Gar-b-age/CookLikeHOC/issues/26)
 
-仓库主体部分于2024年完工，和2025年9月份的舆论事件无关。截止提交时，仓库的贡献者们与老乡鸡的唯一关系只有消费者和商家的关系。本仓库不是老乡鸡的官方仓库。如果有任何问题或意见建议，欢迎指出
+> 仓库主体部分于2024年完工，和2025年9月份的舆论事件无关。截止提交时，仓库的贡献者们与老乡鸡的唯一关系只有消费者和商家的关系。本仓库不是老乡鸡的官方仓库。如果有任何问题或意见建议，欢迎指出
 
 ---
+
+## 现在
 
 - 欢迎大家来贡献实拍图
 
